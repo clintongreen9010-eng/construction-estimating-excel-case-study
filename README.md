@@ -85,6 +85,25 @@ The analysis identified two primary project cost drivers:
 
 The material/labor analysis also shows that flooring is more material-intensive, while wall surface work is more labor-intensive.
 
+## Project Screenshots
+
+### Estimate Summary
+
+![Estimate Summary](estimate-summary.png)
+
+The estimate summary consolidates material and labor costs and applies contingency, overhead, and profit assumptions to produce a final preliminary bid.
+
+### Bid Comparison
+
+![Bid Comparison](bid-comparison.png)
+
+The bid comparison evaluates subcontractor pricing against the internal estimate while also considering schedule, scope completeness, and exclusions to support a best-value recommendation.
+
+### Cost Analysis
+
+![Cost Analysis](cost-analysis.png)
+
+The cost analysis highlights the project's primary cost drivers and compares material and labor costs across each scope.
 ## Assumptions & Limitations
 
 This is a fictional portfolio case study and is not intended to represent an actual construction bid.
